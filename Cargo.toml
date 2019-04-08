@@ -5,3 +5,4 @@ authors = ["Timm Kühnel <t_kueh06@uni-muenster.de>"]
 edition = "2018"
 
 [dependencies]
+rand = "0.3.0"
